@@ -1,3 +1,4 @@
+[index.md](https://github.com/user-attachments/files/32690186/index.md)
 # Science du Distonique Distinctif et Infomécanodynamique
 
 Bienvenue sur le portail officiel de recherche d'**Alexandre Vallerand (VarleX)**, consacré à l'**Infomécanodynamique**, à la **Cybernétique de Second Ordre** et à l'ingénierie des **Machines Non Triviales**.
